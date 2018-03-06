@@ -3,11 +3,7 @@ one photo gallery project based on react
 
 #根据慕课网 “React实战-打造画廊应用” 课程完成
 
- clone 下来直接 npm start 就能运行
-
-或者点击下面在线预览的地址
-
-https://3terrace.github.io/gallery-by-react/dist/index.html
+ clone 下来在项目目录下npm install后直接 npm start 就能运行
 
 所用技术栈 React、webpack、sass、ES6，如果npm也算
 
