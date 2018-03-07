@@ -16,8 +16,11 @@ imageDatas = ((imageDatasArr) => {
   return imageDatasArr;
 })(imageDatas);
 
+
+
 //获取区间内的一个随机值
 
+//获取区间内的一个随机值
 var getRangeRandom = (low, high) => Math.floor(Math.random() * (high - low) + low);
 //获取0-30°之间一个任意正负值
 var get30DegRandom = () => {
